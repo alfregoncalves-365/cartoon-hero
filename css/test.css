@@ -1,13 +1,13 @@
 body{
-	background-color: lightgrey
+	background-color: #DCEEF1
 }
 h1{
 	font-size: 60px;
-	color: teal
+	color: #90A8AC
 }
 h2{
 	font-size: 50px;
-	color: lightblue
+	color: #90A8AC
 }
 
 .big{
@@ -19,8 +19,8 @@ h2{
 }
 
 .big.uppercase{
-	color: navy
+	color: #90A8AC
 }
 h1  span{
-	color: violet;
+	color: #90A8AC;
 }
